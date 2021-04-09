@@ -8,6 +8,11 @@ enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
 # Enable Disqus
 #disqusShortname = ""
 
@@ -61,7 +66,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fas fa-rss"
 title = "RSS"
-url = "/index.xml"
+url = "/rss.xml"
 
 ## Menu items
 

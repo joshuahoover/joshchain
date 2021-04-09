@@ -1,7 +1,7 @@
 +++
 author = "Josh Hoover"
 title = "NFT Mania 2021"
-date = "2020-04-09"
+date = "2021-04-09T15:20:15"
 description = "NFTs are solid, except when they aren't."
 tags = [
     "nft",

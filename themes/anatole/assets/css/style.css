@@ -294,13 +294,12 @@ a:active {
 
 .sidebar .logo-title .title h3 {
     font-family: 'Codystar', cursive;
-    font-size: 50px;
 }
 
 .sidebar .logo-title .title a {
     color: var(--heading-color);
     letter-spacing: 10px;
-    font-size: 75px;
+    font-size: 50px;
 }
 
 .sidebar .social-links {
@@ -331,7 +330,7 @@ a:active {
 
 .post {
     background-color: var(--bg-color);
-    margin: 30px;
+    margin-top: 75px;
 }
 
 .post .post-title h1 {

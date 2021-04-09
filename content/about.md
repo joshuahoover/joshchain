@@ -4,6 +4,7 @@ description = "A little about Joshua Hoover"
 date = "2021-04-09"
 aliases = ["about-us", "about-josh", "contact"]
 author = "Josh"
+rss_ignore = true
 +++
 
 My name is Joshua Hoover. I thought it might be fun to write about blockchain, cryptocurrencies, and decentralization in general on this site with a ridiculous name.
