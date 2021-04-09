@@ -184,6 +184,7 @@ a:active {
     float: right;
     width: 60%;
     margin-top: 60px;
+    margin-right: 50px;
 }
 
 .page-top {
@@ -259,7 +260,7 @@ a:active {
 }
 
 .sidebar {
-    width: 40%;
+    width: 35%;
     -webkit-background-size: cover;
     background-size: cover;
     background-color: var(--bg-color);
