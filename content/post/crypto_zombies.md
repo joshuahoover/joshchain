@@ -10,7 +10,7 @@ tags = [
     "Learning"
 ]
 images = ["/images/posts/crypto_zombies.png"]
-draft = true
+draft = "true"
 +++
 I wanted to get more hands-on learning with smart contract development, especially Ethereum smart contracts built with the [Solidity programming language](https://docs.soliditylang.org/en/latest/). When I did some searches for what the best resources were for this, [cryptozombies.io ](https://cryptozombies.io) kept coming up as the best option. Despite my skepticism, CryptoZombies is a really good way to learn Solidity and smart contract development.
 

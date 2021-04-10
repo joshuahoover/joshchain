@@ -7,7 +7,7 @@ tags = [
     "Bitcoin"
 ]
 images = ["/images/posts/rip_bitcoin.png"]
-draft = true
+draft = "true"
 +++
 I must confess that up until about sometime in 2015 I was a Bitcoin skeptic. I can recall making reference to Bitcoin as "digital Chuck E. Cheese tokens" back then more than once. It was out of ignorance. I hadn't read [Satoshi Nakamoto's whitepaper](https://bitcoin.org/bitcoin.pdf). I didn't do any digging at all into the first decentralized currency of its kind. What changed my mind was a conversation I had with a gentleman who had his masters degree in economics. He was not a tech guy. Nor was he the type of person who seemed to hop on trends. He explained to me why he was so bullish on Bitcoin and cryptocurrencies in general. After that conversation I began to do more reading and went from the king of crypto skepticism to more positive on Bitcoin, cryptocurrencies, and [decentralized apps (DApps)](https://www.stateofthedapps.com/) in general.
 
