@@ -6,7 +6,8 @@ description = "NFTs are solid, except when they aren't."
 tags = [
     "nft",
 ]
-images = ["images/posts/nft_meme.jpg"]
+images = ["/images/posts/nft_meme.jpg"]
+draft = false
 +++
 Non-fungible tokens (aka NFTs) for digital assets are all the rage in 2021. A piece of digital art [sold at a Christie's auction for $69.3 million](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days). NBA highlight videos are [listing for hundreds of thousands of dollars](https://nbatopshot.com/search?orderBy=PRICE_USD_DESC). Jack Dorsey's [first tweet sold for $2.9 million](https://www.cnn.com/2021/03/23/tech/jack-dorsey-nft-tweet-sold/index.html) as an NFT.
 

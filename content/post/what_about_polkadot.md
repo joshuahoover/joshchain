@@ -8,8 +8,9 @@ tags = [
     "Polkadot",
     "Exchanges"
 ]
+images = ["/images/posts/polkadot_logo.png"]
 draft = false
 +++
 [Coinbase keeps adding more coins and tokens](https://blog.coinbase.com/1inch-1inch-enjin-coin-enj-nkn-nkn-and-origin-token-ogn-are-now-available-on-coinbase-1bf69a88af25) while leaving out one of the most promising new blockchains of them all, [Polkadot](https://polkadot.network). I don't get it. Polkadot not only has a lot of promise technically and traction with its ecosystem, but also offers compelling [staking rewards](https://www.stakingrewards.com/earn/polkadot) on top of it.
 
-The best bet for :us: folks to invest in Polkadot is [Kraken](https://kraken.com/). Both the _DOT_ and _KSM_ coins are offered there with [staking](https://www.kraken.com/en-us/features/staking-coins/) as an option. Unfortunately, Kraken does not make it as easy as Coinbase and others to deposit USD currency. I'm hopeful they make USD deposits better as that is one of the key areas they lag behind Coinbase and Crypto.com in regards to a crypto market exchange for the US market.
+The best bet for :usa: folks to invest in Polkadot is Kraken. Both the _DOT_ and _KSM_ coins are offered there with staking as an option. Unfortunately, Kraken does not make it nearly as easy as Coinbase and others to deposit USD currency. I'm hopeful they make that better as that is one of the key areas they lag behind Coinbase and Crypto.com in regards to a crypto market exchange.
