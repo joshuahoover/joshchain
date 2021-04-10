@@ -8,7 +8,7 @@ tags = [
     "Polkadot",
     "Exchanges"
 ]
-images = ["/images/posts/polkadot_logo.png"]
+images = ["/images/posts/what_about_polkadot.png"]
 draft = false
 +++
 [Coinbase keeps adding more coins and tokens](https://blog.coinbase.com/1inch-1inch-enjin-coin-enj-nkn-nkn-and-origin-token-ogn-are-now-available-on-coinbase-1bf69a88af25) while leaving out one of the most promising new blockchains of them all, [Polkadot](https://polkadot.network). I don't get it. Polkadot not only has a lot of promise technically and traction with its ecosystem, but also offers compelling [staking rewards](https://www.stakingrewards.com/earn/polkadot) on top of it.
