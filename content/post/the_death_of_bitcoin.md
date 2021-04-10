@@ -1,7 +1,7 @@
 +++
 author = "Josh Hoover"
 title = "The Death of Bitcoin"
-date = "2021-04-10T12:00:00"
+date = "2021-04-12T12:00:00"
 description = "RIP Bitcoin? Plenty of people are still writing the cryptocurrency's obituary."
 tags = [
     "Bitcoin"
