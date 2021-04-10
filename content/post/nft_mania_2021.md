@@ -11,7 +11,7 @@ draft = false
 +++
 Non-fungible tokens (aka NFTs) for digital assets are all the rage in 2021. A piece of digital art [sold at a Christie's auction for $69.3 million](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days). NBA highlight videos are [listing for hundreds of thousands of dollars](https://nbatopshot.com/search?orderBy=PRICE_USD_DESC). Jack Dorsey's [first tweet sold for $2.9 million](https://www.cnn.com/2021/03/23/tech/jack-dorsey-nft-tweet-sold/index.html) as an NFT.
 
-![Alt text](/images/posts/nft_meme.jpg "a title")
+![NFT meme](/images/posts/nft_meme.jpg "Hey list, I quit. He showed this NFT thing.")
 
 There is a problem with these digital asset NFTs. Almost all the digital assets the NFTs reference are stored on centralized systems. This means that the NFT on a decentralized blockchain points to the image, video, etc. at a URL that is likely owned by a single entity. If that entity goes away, decides not to host that asset, or changes the location of that asset (without redirecting) then the NFT is pointing at nothing. For a much more in-depth look at this problem, read [Dan Kahan's article](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/?utm_source=rss&utm_medium=rss&utm_campaign=do-you-really-own-your-nft-chances-are-you-dont).
 
