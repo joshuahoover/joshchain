@@ -29,7 +29,7 @@ title = "joshchain"
 author = "Joshua Hoover"
 copyright = "2021"
 description = "Blockchain, but better. 😹"
-profilePicture = "images/joshchain.png"
+profilePicture = "images/joshchain.webp"
 keywords = "Blockchain Cryptocurrency Decentralization Bitcoin Ethereum Polkadot Smart Contracts"
 favicon = "favicons/"
 # example ["css/custom.css"]
