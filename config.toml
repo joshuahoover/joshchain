@@ -33,7 +33,7 @@ profilePicture = "images/joshchain.webp"
 keywords = "Blockchain Cryptocurrency Decentralization Bitcoin Ethereum Polkadot Smart Contracts"
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = []
 mainSections = ["post"]
