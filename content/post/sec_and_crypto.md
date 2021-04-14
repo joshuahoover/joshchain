@@ -1,13 +1,13 @@
 +++
 author = "Josh Hoover"
 title = "The SEC & cryptocurrencies - A match made in mayhem"
-date = "2021-04-14T12:00:00"
+date = "2021-04-14T6:00:00"
 description = "There's some positive words from the SEC and there's some negative actions. It's all rather confusing."
 tags = [
     "Bitcoin"
 ]
 images = ["/images/posts/sec_crypto.png"]
-draft = "true"
+draft = "false"
 +++
 ![SEC and crypto - thumbs up and down](/images/posts/sec_crypto.png "SEC and crypto - thumbs up and down")
 
