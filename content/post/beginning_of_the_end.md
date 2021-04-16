@@ -9,7 +9,7 @@ tags = [
     "DeFi"
 ]
 images = ["/images/posts/beginning_of_the_end.webp"]
-draft = "true"
+draft = "false"
 +++
 ![Beginning of the end for traditional banking](/images/posts/beginning_of_the_end.webp "Beginning of the end for traditional banking")
 
