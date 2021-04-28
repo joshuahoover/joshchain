@@ -33,4 +33,4 @@ It's tempting to think there will be one blockchain that "wins". The one blockch
 
 * **Mina** A [22kb blockchain](https://minaprotocol.com/). Consider me intrigued. The approach and the use of zero knowledge proofs with a privacy first focus makes Mina unique.
 
-* **Algorand** Focused on DeFi. [Traction is good](https://www.algorand.com/ecosystem). Algorand is a good example of a blockchain focused on a particular vertical and aiming to be excellent at that.
+* **Algorand** Focused on DeFi. [Traction is impressive](https://www.algorand.com/ecosystem). Algorand is a good example of a blockchain focused on a particular vertical and aiming to be excellent at that.
