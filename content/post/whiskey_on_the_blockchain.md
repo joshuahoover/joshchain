@@ -11,7 +11,7 @@ tags = [
     "Ethereum"
 ]
 images = ["/images/posts/whiskey_on_the_blockchain.webp"]
-draft = "true"
+draft = "false"
 +++
 One of the most common questions I'm asked about blockchain is what it's good for outside of digital currency. Some blockchain enthusiasts will point to DeFi, and rightfully so. DeFi is creating a number of interesting products. However, most people I talk to aren't too interested in what they see as "wall street on the blockchain". Those in tech often want more tangible examples, ideally with code.
 

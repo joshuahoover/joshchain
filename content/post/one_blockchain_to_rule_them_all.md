@@ -15,7 +15,7 @@ tags = [
     "Algorand"
 ]
 images = ["/images/posts/one_blockchain_to_rule_them_all.webp"]
-draft = "true"
+draft = "false"
 +++
 ![Lord of the ETH](/images/posts/one_blockchain_to_rule_them_all.webp "Lord of the ETH")
 
